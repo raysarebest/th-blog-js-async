@@ -14,5 +14,5 @@ There are the code examples to go along with my post on the Treehouse blog about
 
 3. ## `async`/`await`
     - Make sure you have [Node.js](https://nodejs.org/en/download/) 7.6 or later installed
-    - Run `npm run callbacks`
+    - Run `npm run async-await`
     - Point your favorite browser to [`localhost:3000`](http://localhost:3000)
